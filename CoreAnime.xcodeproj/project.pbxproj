@@ -26,6 +26,8 @@
 		29AE5E531F4CD8F900D3538E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29AE5E551F4CD8F900D3538E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		29AE5E561F4CD8F900D3538E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29AE5E5D1F4CDE5300D3538E /* img_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img_1.jpg; sourceTree = "<group>"; };
+		29AE5E5E1F4CDE6600D3538E /* img_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img_2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +60,9 @@
 		29AE5E461F4CD8F900D3538E /* CoreAnime */ = {
 			isa = PBXGroup;
 			children = (
+				29AE5E5D1F4CDE5300D3538E /* img_1.jpg */,
 				29AE5E471F4CD8F900D3538E /* AppDelegate.h */,
+				29AE5E5E1F4CDE6600D3538E /* img_2.jpg */,
 				29AE5E481F4CD8F900D3538E /* AppDelegate.m */,
 				29AE5E4A1F4CD8F900D3538E /* ViewController.h */,
 				29AE5E4B1F4CD8F900D3538E /* ViewController.m */,
